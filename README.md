@@ -44,7 +44,7 @@ http://github.com/gourmet/guardian/issues
 
 ## License
 
-Copyright (c) 2015, Jad Bitar and licensed under [The MIT License][mit].
+Copyright (c) 2015, Jad Bitar and Daniel Schalla and licensed under [The MIT License][mit].
 
 [cakephp]:http://cakephp.org
 [composer]:http://getcomposer.org

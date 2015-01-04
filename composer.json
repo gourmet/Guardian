@@ -15,6 +15,11 @@
             , "role": "Author"
         }
         , {
+            "name": "Daniel Schalla"
+            , "homepage": "http://www.schalla.me"
+            , "role": "Author"
+        }
+        , {
             "name": "Others"
             , "homepage": "https://github.com/gourmet/guardian/graphs/contributors"
         }
